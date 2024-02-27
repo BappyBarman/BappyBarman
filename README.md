@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bappybarman.github.io/bappy](https://bappybarman.github.io/bappy)
 
-- 💬 Ask me about **Python,SQL,SAS,HTML, CSS,JavaScript, Python,Docker and AWS**
+- 💬 Ask me about **Python, SQL, SAS, HTML, CSS,JavaScript, Docker and AWS.**
 
 - 📫 How to reach me **bappybarman02@gmail.com**
 
