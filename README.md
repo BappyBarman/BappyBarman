@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Docker and AWS**
 
 - 👨‍💻 All of my projects are available at [https://bappybarman.github.io/bappy](https://bappybarman.github.io/bappy)
 
-- 💬 Ask me about **Python,SQL,Data science**
+- 💬 Ask me about **Python,SQL,SAS,HTML, CSS,JavaScript, Python,Docker and AWS**
 
 - 📫 How to reach me **bappybarman02@gmail.com**
 
